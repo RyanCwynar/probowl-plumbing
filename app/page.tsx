@@ -200,7 +200,7 @@ export default function Home() {
               },
               {
                 name: "Al C.",
-                text: "Just had a water purifier installed. One competitor quoted $585, and Pro Bowl did it in an hour for hundreds less. They&apos;re the only plumbing company I will call in the future. Bravo!"
+                text: "Just had a water purifier installed. One competitor quoted $585, and Pro Bowl did it in an hour for hundreds less. They're the only plumbing company I will call in the future. Bravo!"
               },
             ].map((review, i) => (
               <div key={i} className="bg-white p-6 rounded-xl shadow-sm">
